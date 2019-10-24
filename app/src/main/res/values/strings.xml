@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Yong Kang</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profileDec">This is Yong Kang</string>
+
+</resources>
